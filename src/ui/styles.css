@@ -1,0 +1,28 @@
+/* Estilos gerais */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilos da tabela de pacientes */
+.patient-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.patient-table th, .patient-table td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.patient-table th {
+  background-color: #f2f2f2;
+}
+
+/* Estilos do gráfico de indicadores */
+.indicators-chart {
+  width: 100%;
+  height: 400px;
+}

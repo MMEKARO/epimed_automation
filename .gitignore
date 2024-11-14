@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente virtual
+venv/
+env/
+ENV/
+
+# Arquivos do editor
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.swp
+*.swo
+
+# Outros
+.DS_Store
+Thumbs.db
